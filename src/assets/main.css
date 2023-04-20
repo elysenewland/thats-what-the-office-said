@@ -14,11 +14,26 @@ body {
   letter-spacing: 0.5px;
 }
 
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--white-25);
+  z-index: -1;
+}
+
 #app {
   display: grid;
   grid-template-rows: 1fr auto;
-  min-height: 100vh;
-  background-color: var(--white-25);
+  gap: 1.5rem;
+  position: absolute;
+  top: 0;
+  right: 0; 
+  bottom: 0;
+  left: 0;
 }
 
 main {
