@@ -1,7 +1,7 @@
 <template>
      <footer> 
         <p>
-            Built with <a href="https://www.officeapi.dev/">the Office API</a> – View <a href="https://github.com/elysenewland/thats-what-the-office-said">Github</a>
+            Quotes from <a href="https://www.officequotes.net">OfficeQuotes.net</a> – View <a href="https://github.com/elysenewland/thats-what-the-office-said">Github</a>
         </p>
     </footer>
 </template>

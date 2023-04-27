@@ -1,9 +1,5 @@
-
-<script>
-</script>
-
 <template>
-    <button>Hit me again <img src="@/assets/images/arrow-icon.svg" alt="Circle arrow icon"></button>
+    <button>Hit me again <img id="character-icon" class="spin" src="@/assets/images/arrow-icon.svg" alt="Circle arrow icon"></button> 
 </template>
 
 <style scoped>
@@ -22,5 +18,16 @@ button {
     padding: 0.75rem 1.5rem;
     border: none;
     border-radius: 1.25rem;
+    cursor: pointer;
+}
+
+@keyframes spin {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg)}
+}
+
+.spin img {
+    animation-name: spin;
+    animation-duration: 0.5s;
 }
 </style>
