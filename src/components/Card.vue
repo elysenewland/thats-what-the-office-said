@@ -1,11 +1,19 @@
 <script>
+// Export props in order to pass them into Card component
+export default {
+    props: {
+        subhead: String,
+        title: String,
+        body: String      
+    }
+}
 </script>
 
 <template>
     <div class="card">
-        <!-- TODO: Dynamically load random character and quote from API-->
-        <h1>Michael Scott</h1>
-        <h2>Well, Happy Birthday Jesus. Sorry your party’s so lame.</h2>
+        <h1 v-if="subhead">{{ subhead }}</h1>
+        <h2 v-if="title">{{ title }}</h2>
+        <p v-if="body">{{ body }}</p>
         <img src="@/assets/images/coffee-icon.svg" alt="Coffee icon">
     </div>
 </template>
