@@ -1,0 +1,107 @@
+{
+    "characters": [
+        {
+            "characterId": "01",
+            "characterName": "Michael Scott",
+            "characterColor": "teal",
+            "characterIcon": "coffee mug"
+        },
+        {
+            "characterId": "02",
+            "characterName": "Pam Beesly",
+            "characterColor": "pastel-purple",
+            "characterIcon": "sweater"
+        },
+        {
+            "characterId": "03",
+            "characterName": "Jim Halpert",
+            "characterColor": "pastel-blue",
+            "characterIcon": "stapler"
+        },
+        {
+            "characterId": "04" ,
+            "characterName": "Dwight Schrute",
+            "characterColor": "hsla(50, 100%, 37%, 1)",
+            "characterIcon": "tie"
+        },
+        {
+            "characterId": "05" ,
+            "characterName": "Andy Bernard",
+            "characterColor": "cornell-red",
+            "characterIcon": "cornell-c"
+        },
+        {
+            "characterId": "06",
+            "characterName": "Angela Martin",
+            "characterColor": "dark-grey",
+            "characterIcon": "cat"
+        },
+        {
+            "characterId": "07",
+            "characterName": "Oscar Martinez",
+            "characterColor": "pastel-pink",
+            "characterIcon": "calculator"
+        },
+        {
+            "characterId": "08",
+            "characterName": "Kevin Malone",
+            "characterColor": "brown",
+            "characterIcon": "pot"
+        },
+        {
+            "characterId": "09",
+            "characterName": "Phyllis Vance",
+            "characterColor": "white",
+            "characterIcon": "knitting-needles"
+        },
+        {
+            "characterId": "10",
+            "characterName": "Stanley Hudson",
+            "characterColor": "flamingo-pink",
+            "icon": "pretzel"
+        },
+        {
+            "characterId": "11",
+            "characterName": "Meredith Palmer",
+            "characterColor": "shamrock-green",
+            "characterIcon": "whiskey-bottle"
+        },
+        {
+            "characterId": "12",
+            "characterName": "Creed Bratton",
+            "characterColor": "navy-blue",
+            "characterIcon": "guitar"
+        },
+        {
+            "characterId": "13",
+            "characterName": "Kelly Kapoor",
+            "characterColor": "orange",
+            "characterIcon": "navy-blue"
+        },
+        {
+            "characterId": "14",
+            "characterName": "Ryan Howard",
+            "characterColor": "black",
+            "characterIcon": "glasses"
+        },
+        {
+            "characterId": "15",
+            "characterName": "Toby Flenderson",
+            "characterColor": "beige",
+            "characterIcon": "noose"
+        }, 
+        {
+            "characterId": "16",
+            "characterName": "Darryl Philbin",
+            "characterColor": "light-gray",
+            "characterIcon": "truck"
+        },
+        {
+            "characterId": "17",
+            "characterName": "Jan Levinson",
+            "characterColor": "ice-blue",
+            "characterIcon": "candle"
+        }
+
+    ]
+}
