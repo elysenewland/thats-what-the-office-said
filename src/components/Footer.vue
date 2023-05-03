@@ -15,6 +15,7 @@ footer {
     font-size: 0.75rem;
     line-height: 1;
     text-align: center;
+    transition: background-color var(--transition-duration) var(--transition-timing);
 }
 
 @media (min-width: 800px) {

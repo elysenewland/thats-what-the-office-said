@@ -1,5 +1,5 @@
 <template>
-    <button>Hit me again <img id="character-icon" class="spin" src="@/assets/images/arrow-icon.svg" alt="Circle arrow icon"></button> 
+    <button>Hit me again <img id="character-icon" class="spin" src="/images/icons/arrow-icon.svg" alt="Circle arrow icon"></button> 
 </template>
 
 <style scoped>
@@ -19,6 +19,7 @@ button {
     border: none;
     border-radius: 1.25rem;
     cursor: pointer;
+    transition: background-color var(--transition-duration) var(--transition-timing);
 }
 
 @keyframes spin {
