@@ -1,0 +1,141 @@
+{
+    "characters": [
+        {
+            "characterId": "01",
+            "characterName": "Michael Scott",
+            "characterColor": "hsl(289, 100%, 39%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "coffee mug",
+            "characterImage": "images/characters/Michael-Scott.png"
+        },
+        {
+            "characterId": "02",
+            "characterName": "Pam Beesly",
+            "characterColor": "hsl(332, 78%, 36%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "paintbrush",
+            "characterImage": "images/characters/Pam-Beesly.png"
+        },
+        {
+            "characterId": "03",
+            "characterName": "Jim Halpert",
+            "characterColor": "hsl(201, 100%, 33%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "stapler",
+            "characterImage": "images/characters/Jim-Halpert.png"
+        },
+        {
+            "characterId": "04" ,
+            "characterName": "Dwight Schrute",
+            "characterColor": "hsl(50, 100%, 27%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "beet",
+            "characterImage": "images/characters/Dwight-Schrute.png"
+        },
+        {
+            "characterId": "05" ,
+            "characterName": "Andy Bernard",
+            "characterColor": "hsl(0, 74%, 40%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "graduation cap",
+            "characterImage": "images/characters/Andy-Bernard.png"
+        },
+        {
+            "characterId": "06",
+            "characterName": "Angela Martin",
+            "characterColor": "hsl(0, 0%, 37%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "paw print",
+            "characterImage": "images/characters/Angela-Martin.png"
+        },
+        {
+            "characterId": "07",
+            "characterName": "Oscar Martinez",
+            "characterColor": "hsl(275, 90%, 54%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "calculator",
+            "characterImage": "images/characters/Oscar-Martinez.png"
+        },
+        {
+            "characterId": "08",
+            "characterName": "Kevin Malone",
+            "characterColor": "hsl(359, 8%, 41%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "cookie",
+            "characterImage": "images/characters/Kevin-Malone.png"
+        },
+        {
+            "characterId": "09",
+            "characterName": "Phyllis Vance",
+            "characterColor": "hsl(227, 73%, 57%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "perfume",
+            "characterImage": "images/characters/Phyllis-Vance.png"
+        },
+        {
+            "characterId": "10",
+            "characterName": "Stanley Hudson",
+            "characterColor": "hsl(38, 95%, 33%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "crossword",
+            "characterImage": "images/characters/Stanley-Hudson.png"
+        },
+        {
+            "characterId": "11",
+            "characterName": "Meredith Palmer",
+            "characterColor": "hsl(148, 42%, 35%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "wine bottle",
+            "characterImage": "images/characters/Meredith-Palmer.png"
+        },
+        {
+            "characterId": "12",
+            "characterName": "Creed Bratton",
+            "characterColor": "hsl(228, 53%, 31%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "microphone",
+            "characterImage": "images/characters/Creed-Bratton.png"
+        },
+        {
+            "characterId": "13",
+            "characterName": "Kelly Kapoor",
+            "characterColor": "hsl(306, 93%, 34%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "flower",
+            "characterImage": "images/characters/Kelly-Kapoor.png"
+        },
+        {
+            "characterId": "14",
+            "characterName": "Ryan Howard",
+            "characterColor": "hsl(0, 0%, 18%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "glasses",
+            "characterImage": "images/characters/Ryan-Howard.png"
+        },
+        {
+            "characterId": "15",
+            "characterName": "Toby Flenderson",
+            "characterColor": "hsl(52, 7%, 43%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "Chad Flenderman novel",
+            "characterImage": "images/characters/Toby-Flenderson.png"
+        }, 
+        {
+            "characterId": "16",
+            "characterName": "Darryl Philbin",
+            "characterColor": "hsl(234, 7%, 43%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "pickup truck",
+            "characterImage": "images/characters/Darryl-Philbin.png"
+        },
+        {
+            "characterId": "17",
+            "characterName": "Jan Levinson",
+            "characterColor": "hsl(350, 75%, 42%)",
+            "characterIcon": "images/icons/coffee-icon.svg",
+            "iconName": "candle",
+            "characterImage": "images/characters/Jan-Levinson.png"
+        }
+
+    ]
+}

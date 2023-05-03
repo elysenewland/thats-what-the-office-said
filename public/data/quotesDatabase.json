@@ -2,87 +2,70 @@
     "quotes": [
         {
             "characterId": "01",
-            "character": "Michael Scott", 
             "quote": "Am I going to tell them? No, I am not going to tell them. I don’t see the point of that. As a doctor, you would not tell a patient if they had cancer."
         },
         {
             "characterId": "02",
-            "character": "Pam Beesly",
             "quote": "I want to thank God. Because God gave me this Dundie. And, I feel God in this Chili’s tonight. WHOOOOOOOO!!!!"
         },
         {
             "characterId": "03",
-            "character": "Jim Halpert",
             "quote": "Fact: Bears eat beets. Bears. Beets. Battlestar Galactica."
         },
         {
             "characterId": "04",
-            "character": "Dwight Schrute",
             "quote": "It has to be official, and it has to be urine."
         },
         {
             "characterId": "05",
-            "character": "Andy Bernard",
             "quote": "I’ll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I’m always thinking one step ahead. Like a carpenter that makes stairs."
         },
         {
             "characterId": "06",
-            "character": "Angela Martin",
             "quote": "Poop is raining from the ceilings. Poop!"
         },
         {
             "characterId": "07",
-            "character": "Oscar Martinez",
             "quote":"The hospital will provide dictionaries. Bring a thesaurus."
         },
         {
             "characterId": "08",
-            "character": "Kevin Malone",
             "quote": "The trick is to undercook the onions. Everybody is going to get to know each other in the pot."
         },
         {
             "characterId": "09",
-            "character": "Phyllis Vance",
             "quote": "You have a lot to learn about this town, sweetie."
         },
         {
             "characterId": "10",
-            "character": "Stanley Hudson",
             "quote": "Did I stutter?"
         },
         {
             "characterId": "11",
-            "character": "Meredith Palmer",
             "quote": "My kid needs shoes! You wanna tell him he doesn't get shoes!?"
         },
         {
             "characterId": "12",
-            "character": "Creed Bratton",
             "quote": "I've been involved in a number of cults, both as a leader and a follower. You have more fun as a follower, but you make more money as a leader."
         },
         {
-            "id": "13",
-            "character": "Kelly Kapoor",
+            "characterId": "13",
             "quote": "I am on the third day of my cleanse diet. All I have to do is drink maple syrup, lemon juice, cayenne pepper and water for all three meals. Um, I just bought some bikinis online, size 2. So … gonna look amazing."
         },
         {
-            "id": "14",
-            "character": "Ryan Howard",
+            "characterId": "14",
             "quote": "I ground up four extra-strength aspirin and put them in Michael’s pudding. I do the same thing with my dog to get him to take his heartworm medicine."
         },
         { 
-            "id": "15",
-            "character": "Toby Flenderson",
+            "characterId": "15",
             "quote": "Actually, I didn’t think it was appropriate to invite children since it’s… You know, there’s gambling and alcohol, and it’s in our dangerous warehouse and it’s a school night… And, you know, Hooters is catering. You know, is that enough? Should I keep going?"},
 
         {
-            "id": "16",
-            "character": "Darryl Philbin",
+            "characterId": "16",
             "quote": "I taught Mike some, uh, phrases to help with his interracial conversations. You know, stuff like, “Fleece it out.” “Going mach five.” “Dinkin’ flicka.”"
         },
         {
-            "id": "17",
-            "character": "Jan Levinson",
+            "characterId": "17",
             "quote": "I am taking a calculated risk. What’s the upside? I overcome my nausea, fall deeply in love, babies, normalcy, no more self loathing. Downside? I, uh, date Michael Scott publicly and collapse in on myself like a dying star."
         }
     ]
